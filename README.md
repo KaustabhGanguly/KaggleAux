@@ -1,5 +1,6 @@
 # KaggleAux
 A collection of statistical methods to aid Data Science competitors in Kaggle Competitions.
+
 ### <i>[Link to Kaggle](www.kaggle.com)</i>
 
 To install:
